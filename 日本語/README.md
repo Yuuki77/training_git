@@ -1,4 +1,4 @@
-training-git
+Training - GIT
 ============
 こちらのトレニング用のガイドでGithubを使って、 [gitflow workflow](http://keijinsonyaban.blogspot.jp/2010/10/successful-git-branching-model.html) の基本のコンセプト（Pull requests, conflictsなど）を簡単に説明させて頂きます。
 
